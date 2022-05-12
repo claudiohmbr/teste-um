@@ -1,0 +1,25 @@
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.chmfilmes-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+.chmfilmes-nav-content h1{
+    margin: 0;
+    font-weight:700 ;
+    font-size: 28px;
+}
+.chmfilmes-contatct-container{
+    display: flex;
+    align-items: center;
+}
+.chmfilmes-contact-link{
+    margin: 5px 6px 10px;
+    font-size: 16px;
+}
