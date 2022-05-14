@@ -1,13 +1,13 @@
-package com.portifolio.chm;
+package com.chfilmes.Chm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChmApplication {
+public class ChFilmesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChmApplication.class, args);
+		SpringApplication.run(ChFilmesApplication.class, args);
 	}
 
 }

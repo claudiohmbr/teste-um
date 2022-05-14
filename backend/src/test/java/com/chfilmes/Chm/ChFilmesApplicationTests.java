@@ -1,10 +1,10 @@
-package com.portifolio.chm;
+package com.chfilmes.Chm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChmApplicationTests {
+class ChFilmesApplicationTests {
 
 	@Test
 	void contextLoads() {
